@@ -36,6 +36,14 @@ h6 {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
+.block {
+  margin-bottom: 15px;
+}
+
+.experience-block {
+  margin-bottom: 25px;
+}
+
 .p-block {
   padding-left: 20px;
 }
@@ -87,6 +95,7 @@ h6 {
   margin-bottom: 25px;
 }
 
+.objective-title,
 .experience-title {
   margin-bottom: 5px;
 }
@@ -115,8 +124,4 @@ h6 {
 
 .descr-title {
   font-weight: 500;
-}
-
-.block {
-  margin-bottom: 15px;
 }
